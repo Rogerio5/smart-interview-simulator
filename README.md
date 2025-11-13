@@ -69,8 +69,10 @@ Cada plano inclui:
 - Perguntas comuns de entrevista com exemplos de resposta  
 - Trilha DIO recomendada para estudo
 
-Você pode visualizar os planos completos [aqui](## 📋 AGENT 1 - Exemplo de Resposta.txt/# 📚 AGENT 2 -Exemplos de Planos de.txt
-)
+Você pode visualizar 
+[Exemplo de Resposta](AGENT%201%20-%20Exemplo%20de%20Resposta.txt)
+[Exemplos de Planos](AGENT%202%20-%20Exemplos%20de%20Planos.txt)
+
 
 ---
 

@@ -1,0 +1,185 @@
+# 📚 AGENT 2 -Exemplos de Planos de Carreira em Tecnologia
+
+Este repositório contém três modelos completos de roadmap para quem deseja seguir carreira em tecnologia, com base em entrevistas personalizadas.
+
+---
+
+## 🧠 Plano de Carreira: Cientista de Dados
+
+### 🧩 Visão do Dia a Dia
+- Coletar e limpar dados de diversas fontes
+- Explorar padrões e correlações usando estatística
+- Construir modelos preditivos com machine learning
+- Criar visualizações para comunicar insights
+- Trabalhar com times de produto e negócio para orientar decisões
+
+### 🧠 Mapa de Skills
+**Core Skills:**
+- Estatística e probabilidade
+- Programação em Python
+- Machine Learning supervisionado e não supervisionado
+
+**Nice-to-Have:**
+- SQL avançado
+- Storytelling com dados
+
+**Ferramentas e Tecnologias:**
+- Pandas, NumPy, Scikit-learn
+- Power BI, Matplotlib, Seaborn
+- Jupyter Notebook, Git
+
+### 📅 Roadmap de 90 Dias (20h/semana)
+**Mês 1 – Fundamentos**
+- Python para análise de dados
+- Estatística descritiva e inferencial
+- Manipulação de dados com Pandas
+- Visualizações com Matplotlib e Seaborn
+
+**Mês 2 – Prática**
+- Regressão e classificação com Scikit-learn
+- Métricas de avaliação
+- Overfitting e validação cruzada
+
+**Mês 3 – Portfólio**
+- Projeto preditivo com dados reais
+- Documentação e publicação no GitHub
+- Simulação de entrevistas técnicas
+
+### 🚀 Projeto de Portfólio
+**Nome:** Previsão de Churn  
+**Entregáveis:** Dataset tratado, modelo preditivo, dashboard  
+**Critérios:** Acurácia > 80%, visualizações claras, código documentado  
+**Dica:** Use dados públicos do Kaggle ou DIO
+
+### 💬 Roteiro de Entrevistas
+- O que é regressão linear?
+- Como lida com dados faltantes?
+- Diferença entre classificação e regressão?
+- O que é overfitting?
+- Como escolher um modelo?
+
+### 🎓 Trilha DIO
+**Trilha:** Formação Cientista de Dados  
+**Link:** [dio.me](https://dio.me)
+
+---
+
+## 🧠 Plano de Carreira: Engenheiro de Machine Learning
+
+### 🧩 Visão do Dia a Dia
+- Preparar grandes volumes de dados
+- Desenvolver e otimizar algoritmos
+- Integrar modelos em sistemas de produção
+- Monitorar performance em tempo real
+- Trabalhar com engenharia e produto
+
+### 🧠 Mapa de Skills
+**Core Skills:**
+- Python avançado
+- Pipelines de dados
+- Algoritmos de ML
+
+**Nice-to-Have:**
+- Engenharia de software
+- MLOps
+
+**Ferramentas e Tecnologias:**
+- Scikit-learn, TensorFlow, PyTorch
+- Docker, Git, APIs REST
+- MLflow, FastAPI
+
+### 📅 Roadmap de 90 Dias (20h/semana)
+**Mês 1 – Fundamentos**
+- Python estruturado
+- Fundamentos de ML
+- Modelos com Scikit-learn
+- Pré-processamento e feature engineering
+
+**Mês 2 – Prática**
+- Redes neurais com TensorFlow/PyTorch
+- Pipelines de validação
+- Deploy com Flask/FastAPI
+
+**Mês 3 – Portfólio**
+- Projeto com deploy
+- Documentação técnica
+- Simulação de entrevistas
+
+### 🚀 Projeto de Portfólio
+**Nome:** Classificador de Sentimentos  
+**Entregáveis:** Modelo treinado, API funcional, README técnico  
+**Critérios:** Acurácia > 85%, endpoint `/predict`, código limpo  
+**Dica:** Use reviews da Amazon ou dados do Kaggle
+
+### 💬 Roteiro de Entrevistas
+- Diferença entre overfitting e underfitting
+- O que é uma pipeline de ML?
+- Como fazer deploy de modelo?
+- O que são hiperparâmetros?
+- Como lidar com dados desbalanceados?
+
+### 🎓 Trilha DIO
+**Trilha:** Bootcamp Machine Learning com Python  
+**Link:** [dio.me](https://dio.me)
+
+---
+
+## 🧠 Plano de Carreira: Analista de Business Intelligence
+
+### 🧩 Visão do Dia a Dia
+- Coletar e integrar dados
+- Criar dashboards e relatórios
+- Monitorar KPIs
+- Apoiar decisões estratégicas
+- Automatizar visualizações
+
+### 🧠 Mapa de Skills
+**Core Skills:**
+- SQL
+- Modelagem de dados
+- Power BI
+
+**Nice-to-Have:**
+- Estatística básica
+- Conhecimento de negócios
+
+**Ferramentas e Tecnologias:**
+- Power BI, Excel, DAX
+- SQL Server, PostgreSQL
+- Python (Pandas)
+
+### 📅 Roadmap de 90 Dias (20h/semana)
+**Mês 1 – Fundamentos**
+- SQL básico/intermediário
+- Modelagem de dados
+- Dashboards simples no Power BI
+- DAX para cálculos
+
+**Mês 2 – Prática**
+- Conexão de múltiplas fontes
+- Relatórios interativos
+- Automação de atualizações
+
+**Mês 3 – Portfólio**
+- Projeto com dados reais
+- Apresentação de resultados
+- Publicação no GitHub e Power BI Service
+
+### 🚀 Projeto de Portfólio
+**Nome:** Dashboard de Performance Operacional  
+**Entregáveis:** Dataset, dashboard, relatório de insights  
+**Critérios:** KPIs definidos, visualização clara, storytelling  
+**Dica:** Use dados públicos como Superstore ou IBGE
+
+### 💬 Roteiro de Entrevistas
+- O que é BI?
+- Diferença entre medida e coluna calculada
+- Como lida com dados inconsistentes?
+- O que é DAX?
+- Como explicar insights para não técnicos?
+
+### 🎓 Trilha DIO
+**Trilha:** Formação Business Intelligence com Power BI  
+**Link:** [dio.me](https://dio.me)
+
+---

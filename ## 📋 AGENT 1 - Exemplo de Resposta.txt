@@ -1,0 +1,89 @@
+## 📋 AGENT 1 - Exemplo de Respostas de Entrevista 
+
+**1. O que mais te atrai em tecnologia?**  
+➡️ Resolver problemas
+
+**2. Você já tem experiência na área de tecnologia?**  
+➡️ Sim, já tenho experiência
+
+**3. Quantas horas por semana você consegue dedicar aos estudos?**  
+➡️ 20 horas
+
+**4. Você prefere lidar com pessoas, dados ou código?**  
+➡️ Código e dados
+
+**5. Qual é seu objetivo principal?**  
+➡️ Fazer transição de carreira
+
+**6. Quais assuntos ou tecnologias mais despertam seu interesse?**  
+➡️ Dados, inteligência artificial, Machine Learning
+
+**7. Experiência prévia que gostaria de aproveitar:**  
+➡️ Estágio em Qualidade na Paschoalotto, com foco em análise de performance, KPIs e dashboards em Power BI.  
+➡️ Cursos: Bootcamp ML Training, Python (Danki.Code), Data Science & BI (DSA), Power BI (VISCARI)
+
+---
+
+## 📊 Análise de Perfil
+
+Com base nas suas respostas, avaliei suas afinidades, experiência, disponibilidade e interesses técnicos. Aqui estão as 3 carreiras mais promissoras para você:
+
+---
+
+### 🥇 1º LUGAR: Cientista de Dados — 18/20
+
+💡 **Por que combina com você:**  
+Você já tem experiência com análise de performance, KPIs e Power BI, além de cursos em Data Science, Machine Learning e Python. Seu interesse por dados e IA é forte, e sua transição será acelerada por esse repertório.
+
+⚖️ **O que esperar:**
+
+**Vantagens:**
+- Alta demanda no mercado
+- Forte aproveitamento da sua experiência com indicadores e dashboards
+
+**Desafios:**
+- Dominar estatística e modelagem preditiva
+- Aprender a comunicar insights de forma clara e estratégica
+
+📈 **Mercado:**  
+Muito aquecido, especialmente em empresas que valorizam decisões baseadas em dados. A demanda varia por região e setor, mas é crescente em fintechs, saúde, varejo e consultorias.
+
+---
+
+### 🥈 2º LUGAR: Engenheiro de Machine Learning — 16/20
+
+💡 **Por que combina com você:**  
+Você já iniciou sua jornada com cursos em ML e Python, e tem perfil analítico. Essa carreira exige mais profundidade técnica, mas seu ritmo de estudo (20h/semana) é suficiente para evoluir bem.
+
+⚖️ **O que esperar:**
+
+**Vantagens:**
+- Trabalhar com IA aplicada e algoritmos avançados
+- Forte valorização no mercado
+
+**Desafios:**
+- Dominar frameworks como TensorFlow ou PyTorch
+- Aprender sobre pipelines de dados e deploy de modelos
+
+📈 **Mercado:**  
+Crescente em empresas de tecnologia, startups e setores que investem em automação inteligente. A entrada pode exigir projetos práticos e portfólio técnico.
+
+---
+
+### 🥉 3º LUGAR: Analista de Business Intelligence — 15/20
+
+💡 **Por que combina com você:**  
+Sua experiência com Power BI e análise de indicadores já te coloca muito próximo dessa função. É uma excelente porta de entrada para quem quer trabalhar com dados e gerar impacto estratégico.
+
+⚖️ **O que esperar:**
+
+**Vantagens:**
+- Rápida inserção no mercado
+- Forte aproveitamento da sua experiência anterior
+
+**Desafios:**
+- Aprender a integrar dados de múltiplas fontes
+- Evoluir para análises mais preditivas e automatizadas
+
+📈 **Mercado:**  
+Muito presente em empresas que usam dashboards para tomada de decisão. BI é uma área com boa estabilidade e oportunidades de crescimento.

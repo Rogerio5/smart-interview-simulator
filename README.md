@@ -22,7 +22,7 @@ O sistema simula uma entrevista de carreira e gera um plano de estudos personali
 - `AGENT 2 - Planejador de Carreiras.txt`  
   Recebe os dados da entrevista e gera um plano completo de estudos com roadmap, projeto de portfólio e roteiro de entrevistas.
 
-- `respostas_entrevista.json`  
+- `📋 AGENT 1 - Exemplo de Resposta.txt e 📚 AGENT 2 -Exemplos de Planos de.txt`  
   Arquivo com as respostas reais do usuário, usado como base para gerar os planos.
 
 ---

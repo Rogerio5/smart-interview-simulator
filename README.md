@@ -76,7 +76,7 @@ Você pode visualizar
 - [AGENT 2 - Planejador](AGENT%202%20-%20Planejador%20de%20Carreiras.txt)
 - [Exemplo de Resposta](AGENT%201%20-%20Exemplo%20de%20Resposta.txt)
 - [Exemplos de Planos](AGENT%202%20-%20Exemplos%20de%20Planos.txt)
-- 
+  
 ---
 
 ## 🔍 Funcionalidades do Simulador

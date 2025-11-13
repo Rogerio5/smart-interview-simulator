@@ -65,7 +65,7 @@ Cada plano inclui:
 - Perguntas comuns de entrevista com exemplos de resposta  
 - Trilha DIO recomendada para estudo
 
-Você pode visualizar os planos completos [aqui](smart-interview-simulator
+Você pode visualizar os planos completos [aqui](## 📋 AGENT 1 - Exemplo de Resposta.txt/# 📚 AGENT 2 -Exemplos de Planos de.txt
 )
 
 ---

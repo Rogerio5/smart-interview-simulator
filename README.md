@@ -107,13 +107,24 @@ Quanto mais contexto você fornece, mais personalizada e útil é a resposta. A 
 
 ---
 
-## 🚀 Próximos Passos
+## 🚀 Próximos Passos (Futura Melhoria)
 
 - Criar uma interface web simples para simular a entrevista
 - Transformar os planos em páginas interativas
 - Integrar com a API da DIO para sugerir trilhas automaticamente
 
 ---
+
+## ✅ Conclusão
+
+Este projeto demonstrou como a inteligência artificial pode ser aplicada de forma prática na orientação de carreiras em tecnologia.  
+A combinação entre o **Agent 1 (Entrevistador)** e o **Agent 2 (Planejador)** criou uma experiência completa: desde a coleta de informações do usuário até a entrega de um roadmap personalizado com projetos, entrevistas e trilhas de estudo.
+
+Mais do que um simulador, este trabalho mostra o potencial da IA em apoiar decisões profissionais e educacionais, tornando o processo mais acessível, interativo e motivador.  
+Com as futuras melhorias propostas — como interface web, páginas interativas e integração com a DIO — o projeto pode evoluir para uma plataforma robusta de orientação de carreira.
+
+✨ **Em resumo:** o Smart Interview Simulator é um passo inicial para transformar a forma como pessoas descobrem e planejam sua jornada em tecnologia.
+
 
 
 

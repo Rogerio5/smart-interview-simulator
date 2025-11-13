@@ -1,7 +1,5 @@
 # smart-interview-simulator
 
-![Capa do Projeto](Carreira.png)
-
 ---
 
 # 🧭 Simulador de Carreira em Tecnologia — Projeto com IA
@@ -10,6 +8,10 @@ Este projeto foi desenvolvido como uma experiência prática de orientação pro
 A proposta é ajudar pessoas a descobrirem e planejarem sua carreira em tecnologia por meio de uma conversa estruturada com dois agentes inteligentes: o Entrevistador (Agent 1) e o Planejador (Agent 2).
 
 ---
+
+![Capa do Projeto](Carreira.png)
+
+--- 
 
 ## 🧠 Visão Geral
 

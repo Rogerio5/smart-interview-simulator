@@ -1,5 +1,9 @@
 # smart-interview-simulator
 
+![Capa do Projeto](Carreira.png)
+
+---
+
 # 🧭 Simulador de Carreira em Tecnologia — Projeto com IA
 
 Este projeto foi desenvolvido como uma experiência prática de orientação profissional usando inteligência artificial.  
